@@ -2336,7 +2336,7 @@ MonoBehaviour:
   inputField1: {fileID: 1402029990}
   inputField2: {fileID: 504668057}
   inputField3: {fileID: 470799216}
-  openChestSprite: {fileID: -8159804910883974877, guid: 2c3c5cd21e3691c4984a5b72fcb0d01a, type: 3}
+  openChestSprite: {fileID: -8159804910883974877, guid: ba3c08207e645e744be9cff63c2f588b, type: 3}
 --- !u!61 &1837503996
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2427,7 +2427,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2816961030500018194, guid: b3b82dddd6248ea48afaab2dc00f7bcb, type: 3}
+  m_Sprite: {fileID: -2816961030500018194, guid: e197e08d08bb3f84eb91418f0fe59f31, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
